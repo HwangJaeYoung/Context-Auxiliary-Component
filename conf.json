@@ -1,0 +1,8 @@
+{
+  "proxy:conf": {
+    "fiwareIP": "http://192.168.0.76:1026",
+    "yellowTurtleIP" : "http://127.0.0.1:7579",
+    "notificationURL" : "http://192.168.0.34:62590/FiwareNotificationEndpoint",
+    "MMGURL" : "http://localhost:9090/FiwareDeviceNodeCount"
+  }
+}
